@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "475252120199",
+    "project_id": "work-turuturu",
+    "storage_bucket": "work-turuturu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475252120199:android:ab0e28081469ed5a057622",
+        "android_client_info": {
+          "package_name": "com.example.workturuturu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475252120199-2pgqenj733f619rpn705md9vcooqbekn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3xqa3OGVSLZmdAOBCoP4Vlfm_L1JJjT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475252120199-2pgqenj733f619rpn705md9vcooqbekn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
